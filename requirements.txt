@@ -1,1 +1,2 @@
-telethon
+pip install telethon
+python main.py
